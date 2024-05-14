@@ -1,0 +1,55 @@
+﻿PARAXANTHINE;Cn1cnc2[nH]c(=O)n(C)c(=O)c12
+6-FORMYLINDOLO [3,2-B] CARBAZOLE;O=Cc1c2[nH]c3ccccc3c2cc4[nH]c5ccccc5c14
+ADRENIC ACID (22:4, n-6);CCCCC/C=C\\C/C=C\\C/C=C\\C/C=C\\CCCCCC(=O)O
+BETAHISTINE HYDROCHLORIDE;CNCCC1=CC=CC=N1.Cl
+beta-DIHYDROROTENONE;COc1cc2OC[C@H]3Oc4c5CCC(C)(C)Oc5ccc4C(=O)[C@H]3c2cc1OC
+Hydrocotarnine hydrobromide;COc1c2OCOc2cc3CCN(C)Cc13
+NAPROXOL;COc1ccc2cc(ccc2c1)[C@H](C)CO
+;
+PREDNISOLONE ACETATE;CC(=O)OCC(=O)[C@@]1(O)CCC2C3CCC4=CC(=O)C=CC4(C)C3[C@@H](O)C[C@@]21C
+ESTRADIOL DIACETATE;CC(=O)O[C@H]1CCC2C3CCc4cc(OC(=O)C)ccc4C3CC[C@]12C
+3-MPPI;COc1ccccc1N2CCN(CCn3c(=O)[nH]c4c5ccccc5[nH]c4c3=O)CC2
+;
+BRD-A41941932;O=c1cc(-c2ccc(O)cc2)oc2c(C3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)c(O)cc(O)c12
+BRD-K72726508;O=C1NC(=O)c2c1c1c3ccccc3[nH]c1c1[nH]c3ccccc3c21
+BRD-K00732328;O=C(c1cc(Cl)cc(Cl)c1)N1CCN(c2cc(C(F)(F)F)nc3ccccc23)CC1
+BRD-A04661934;O=C1Nc2ccccc2C2=NC(CN3CCN(c4ccccc4)CC3)CN12
+BRD-K63608008;O=C1N=C(NS(=O)(=O)c2ccccc2)S/C1=C1\C(=O)Nc2ccccc21
+BRD-A83387524;CNC(=O)C1OC(n2cnc3c(NCc4cccc(I)c4)nc(Cl)nc32)C(O)C1O
+;
+Digitoxigenin;C[C@@]12CC[C@H]3[C@@H](CC[C@@H]4C[C@@H](O)CC[C@@]43C)[C@@]2(O)CC[C@@H]1C5=CC(=O)OC5
+Digitoxin;C[C@H]1O[C@H](C[C@H](O)[C@@H]1O)O[C@@H]2[C@@H](C)O[C@H](C[C@@H]2O)O[C@@H]3[C@@H](C)O[C@H](C[C@@H]3O)O[C@H]4CC[C@@]5(C)[C@H](CCC6C5CC[C@]7(C)[C@H](CC[C@]67O)C8=CC(=O)OC8)C4
+DIGOXIN;C[C@H]1O[C@H](C[C@H](O)[C@@H]1O)O[C@@H]2[C@@H](C)O[C@H](C[C@@H]2O)O[C@@H]3[C@@H](C)O[C@H](C[C@@H]3O)O[C@H]4CC[C@@]5(C)[C@H](CC[C@@H]6[C@@H]5C[C@@H](O)[C@]7(C)[C@H](CC[C@]67O)C8=CC(=O)OC8)C4
+PERUVOSIDE;CO[C@@H]1[C@@H](O)[C@H](C)O[C@H](O[C@H]2CC[C@@]3(C=O)[C@H](CCC4C3CC[C@]5(C)[C@H](CC[C@]45O)C6=CC(=O)OC6)C2)[C@H]1O
+OUABAIN;C[C@@H]1O[C@@H](O[C@H]2C[C@@H](O)[C@]3(CO)C4[C@H](O)C[C@]5(C)[C@H](CC[C@]5(O)C4CC[C@]3(O)C2)C6=CC(=O)OC6)[C@H](O)[C@H](O)[C@H]1O
+NERIIFOLIN;CO[C@@H]1[C@@H](O)[C@H](C)O[C@@H](O[C@H]2CC[C@@]3(C)[C@H](CCC4C3CC[C@]5(C)C(CC[C@]45O)C6=CC(=O)OC6)C2)[C@H]1O
+LANATOSIDE C;C[C@H]1O[C@H](C[C@H](O)[C@@H]1O[C@H]2C[C@H](O)[C@H](O[C@H]3C[C@H](OC(=O)C)[C@H](O[C@@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O)[C@@H](C)O3)[C@@H](C)O2)O[C@H]5CC[C@@]6(C)C(CCC7C6C[C@@H](O)[C@]8(C)[C@H](CC[C@]78O)C9=CC(=O)OC9)C5
+Proscillaridin A;C[C@@H]1O[C@@H](O[C@H]2CC[C@]3(C)C4CC[C@]5(C)[C@H](CC[C@]5(O)C4CCC3=C2)c6ccc(=O)oc6)[C@H](O)[C@H](O)[C@H]1O
+;
+Picropodophyllotoxin;COc1cc(cc(OC)c1OC)[C@H]2[C@H]3[C@H](COC3=O)[C@@H](O)c4cc5OCOc5cc24
+Podophyllotoxin;COc1cc(cc(OC)c1OC)[C@H]2[C@@H]3[C@H](COC3=O)[C@@H](O)c4cc5OCOc5cc24
+Paclitaxel;CC(=O)O[C@@H]1C2=C(C)[C@H](C[C@@](O)([C@@H](OC(=O)c3ccccc3)[C@@H]4[C@@]5(CO[C@@H]5C[C@H](O)[C@@]4(C)C1=O)OC(=O)C)C2(C)C)OC(=O)[C@H](O)[C@@H](NC(=O)c6ccccc6)c7ccccc7
+Albendazole;CCCSc1ccc2[nH]c(NC(=O)OC)nc2c1
+Mebendazole;COC(=O)Nc1nc2ccc(cc2[nH]1)C(=O)c3ccccc3
+Methiazole;COC(=O)Nc1nc2cc(SC(C)C)ccc2[nH]1
+Colchicine ;COc1cc2CC[C@H](NC(=O)C)c3cc(=O)c(OC)ccc3-c2c(OC)c1OC
+Cytochalasin b;C[C@H]1[C@H]2[C@H](Cc3ccccc3)NC(=O)[C@@]42OC(=O)C=C[C@H](O)CCC[C@@H](C)CC=C[C@H]4[C@H](O)C1=C
+Cytochalasin d;C[C@H]1[C@H]2[C@H](Cc3ccccc3)NC(=O)[C@@]24[C@@H](C=CC[C@H](C)C(=O)[C@@](C)(O)C=C[C@H]4OC(=O)C)[C@H](O)C1=C
+Chelidonine (+);CN1Cc2c3OCOc3ccc2[C@H]4[C@@H](O)Cc5cc6OCOc6cc5[C@H]41
+Dactinomycin;CC(C)C1NC(=O)C(NC(=O)c2ccc(C)c3oc4c(C)c(=O)c(N)c(C(=O)NC5C(C)OC(=O)C(C(C)C)N(C)C(=O)CN(C)C(=O)C6CCCC6C(=O)C(NC5=O)C(C)C)c4nc23)C(C)OC(=O)C(C(C)C)N(C)C(=O)CN(C)C(=O)C7CCCC7C1=O
+Vinblastine;CC[C@]1(O)C[C@@H]2CN(C1)CCc3c([nH]c4ccccc34)[C@@](C2)(C(=O)OC)c5cc6c(cc5OC)N(C)[C@@H]7[C@@]86CCN9CC=C[C@](CC)([C@H]98)[C@@H](OC(=O)C)[C@]7(O)C(=O)OC
+Deoxysappanone b 7,3'-dimethyl ether acetate;COc1ccc2C(=O)C(Cc3ccc(OC)c(OC(=O)C)c3)COc2c1
+;
+Cedrelone;C[C@]12CCC3[C@@]4(C)C=CC(=O)C(C)(C)C4C(=O)C(=O)[C@@]3(C)[C@]25O[C@@H]5C[C@H]1c6ccoc6
+LY-83583;O=C1C=C(Nc2ccccc2)C(=O)c3cccnc13
+Penitrem A ;CC(=C)C1C(C2C3(O2)C(O1)CCC4(C3(CCC5C4(C6=C7C5OC(C8CC9C8(C1=C7C(=CC(=C1CC9=C)Cl)N6)O)(C)C)C)O)C)O
+Thapsigargin;CCCCCCCC(=O)O[C@@H]1[C@@H](OC(=O)/C(=C\\C)/C)C(=C2[C@@H]3OC(=O)[C@@](C)(O)[C@@]3(O)[C@H](C[C@](C)(OC(=O)C)[C@@H]12)OC(=O)CCC)C
+;
+Chlorpropamide;CCCNC(=O)NS(=O)(=O)C1=CC=C(C=C1)Cl
+2,4,5-trichlorophenoxyacetic acid;C1=C(C(=CC(=C1Cl)Cl)Cl)OCC(=O)O
+2,4-dichlorophenoxyacetic acid;C1=CC(=C(C=C1Cl)Cl)OCC(=O)O
+;
+PCA 4248;CC1C(C(OC)=O)=C(C)NC(C)=C1C(OCCSC2=CC=CC=C2)=O
+Picropodophyllotoxin;O=C1OC[C@]([H])([C@H]2O)[C@@]1(C(C3=C2C=C4OCOC4=C3)C5=CC(OC)=C(C(OC)=C5)OC)[H]
+Heliotrine;C[C@@H](OC)[C@@](C(OCC1=CCN2[C@H]1[C@@H](O)CC2)=O)(O)C(C)C
+Ethisterone;CC12CCC(C=C1CCC3C2CCC4(C)C3CCC4(O)C#C)=O
