@@ -18,6 +18,7 @@ Statistical report
 
 ## Data
 [SemiSupCon(BBBC022) Embeddings](https://zenodo.org/records/10793843)
+
 [Baseline embeddings for the BBBC022 dataset](https://zenodo.org/records/11204045)
 
 [SemiSupCon(BBBC036) Embeddings](https://zenodo.org/records/11231383)
