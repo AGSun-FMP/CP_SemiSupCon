@@ -17,9 +17,12 @@ Statistical report
 
 
 ## Data
-Embeddings: https://zenodo.org/records/10793843
+[SemiSupCon(BBBC022) Embeddings](https://zenodo.org/records/10793843)
+[Baseline embeddings for the BBBC022 dataset](https://zenodo.org/records/11204045)
 
-BBBC022 images processed with ImageJ: https://zenodo.org/records/10948460
+[SemiSupCon(BBBC036) Embeddings](https://zenodo.org/records/11231383)
+
+[BBBC022 images processed with ImageJ](https://zenodo.org/records/10948460)
 
 
 
