@@ -1,0 +1,5 @@
+,MeSH PR AUC,Broad annotation PR AUC,Model,MeSH PR AUC std,MeSH ACC,MeSH ACC std,Broad annotation PR AUC std,Broad annotation ACC,Broad annotation ACC std,Broad target PR AUC,Broad target PR AUC std,Broad target ACC,Broad target ACC std
+CellProfiler,8.62,7.54,MLP,0.83,0.0,0.0,0.82,0.0,0.0,7.12,0.59,0.0,0.0
+DINO,6.73,8.44,MLP,0.56,0.0,0.0,1.13,0.0,0.0,7.06,0.36,0.0,0.0
+Con,9.73,7.47,MLP,2.75,0.35,0.15,0.28,3.39,0.6,7.21,1.73,0.97,0.56
+SemiSupCon,46.49,21.96,MLP,2.89,21.27,3.35,1.8,11.79,1.58,15.96,2.34,3.52,2.0
