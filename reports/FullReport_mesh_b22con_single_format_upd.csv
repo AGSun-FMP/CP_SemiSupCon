@@ -1,0 +1,222 @@
+MeSH_ClassX;precision;recall;f1-score;support
+Antineoplastic Agents, Phytogenic;28.27;37.22;32.09;36.00
+Anti-Inflammatory Agents;24.36;29.17;24.84;136.80
+Antinematodal Agents;20.67;22.22;16.90;36.00
+Insecticides;13.88;11.67;12.29;72.00
+Antidepressive Agents;15.77;11.67;11.31;72.00
+Antipsychotic Agents;10.01;11.20;10.20;187.20
+Dopamine Agonists;12.75;11.03;9.45;136.80
+Herbicides;10.69;8.96;8.95;115.20
+Dopamine Antagonists;6.95;15.83;8.58;86.40
+Anti-Bacterial Agents;7.37;9.98;8.14;288.00
+Enzyme Inhibitors;8.39;11.60;7.89;187.20
+Adrenergic beta-Antagonists;17.62;6.67;7.58;28.80
+Hypoglycemic Agents;4.81;15.93;6.39;100.80
+Serotonin Antagonists;6.60;6.62;6.10;86.40
+Cardiotonic Agents;8.29;4.44;5.65;36.00
+Antihypertensive Agents;2.93;3.32;3.07;201.60
+Adrenergic alpha-Antagonists;4.58;2.22;2.97;36.00
+Anti-Inflammatory Agents, Non-Steroidal;3.01;2.94;2.82;172.80
+Anti-Infective Agents;2.99;2.08;2.46;115.20
+Dopamine Uptake Inhibitors;5.30;1.67;2.42;28.80
+Antidepressive Agents, Tricyclic;4.70;2.22;2.40;50.40
+Serotonin Receptor Agonists;2.69;2.41;2.39;72.00
+Vasodilator Agents;2.51;1.81;2.09;129.60
+Anesthetics, Local;1.46;0.74;0.86;122.40
+Histamine H1 Antagonists;1.16;0.69;0.86;108.00
+Voltage-Gated Sodium Channel Blockers;1.05;0.56;0.73;43.20
+Neuroprotective Agents;2.00;0.37;0.62;50.40
+Antifungal Agents;0.61;0.67;0.60;86.40
+Antiemetics;0.31;0.46;0.36;79.20
+Anticonvulsants;0.41;0.28;0.33;72.00
+Anti-Arrhythmia Agents;0.20;0.14;0.16;93.60
+Anti-Allergic Agents;0.00;0.00;0.00;86.40
+Diuretics;0.00;0.00;0.00;79.20
+Anti-Anxiety Agents;0.00;0.00;0.00;72.00
+Antineoplastic Agents;0.00;0.00;0.00;72.00
+Calcium Channel Blockers;0.00;0.00;0.00;72.00
+Bronchodilator Agents;0.00;0.00;0.00;64.80
+Analgesics, Non-Narcotic;0.00;0.00;0.00;57.60
+Antioxidants;0.00;0.00;0.00;57.60
+Anthelmintics;0.00;0.00;0.00;50.40
+Cholinesterase Inhibitors;0.00;0.00;0.00;50.40
+Parasympatholytics;0.00;0.00;0.00;50.40
+Adrenergic alpha-Agonists;0.00;0.00;0.00;43.20
+Antiparkinson Agents;0.00;0.00;0.00;43.20
+Oxytocics;0.00;0.00;0.00;43.20
+14-alpha Demethylase Inhibitors;0.00;0.00;0.00;36.00
+Anti-Ulcer Agents;0.00;0.00;0.00;36.00
+Antidepressive Agents, Second-Generation;0.00;0.00;0.00;36.00
+Antimalarials;0.00;0.00;0.00;36.00
+Antitussive Agents;0.00;0.00;0.00;36.00
+Cyclooxygenase Inhibitors;0.00;0.00;0.00;36.00
+Glucocorticoids;0.00;0.00;0.00;36.00
+Muscarinic Antagonists;0.00;0.00;0.00;36.00
+Muscle Relaxants, Central;0.00;0.00;0.00;36.00
+Adrenergic beta-1 Receptor Antagonists;0.00;0.00;0.00;28.80
+Adrenergic beta-Agonists;0.00;0.00;0.00;28.80
+Anti-Infective Agents, Urinary;0.00;0.00;0.00;28.80
+Antiviral Agents;0.00;0.00;0.00;28.80
+Central Nervous System Stimulants;0.00;0.00;0.00;28.80
+Cyclooxygenase 2 Inhibitors;0.00;0.00;0.00;28.80
+GABA Antagonists;0.00;0.00;0.00;28.80
+Histamine Antagonists;0.00;0.00;0.00;28.80
+Hypolipidemic Agents;0.00;0.00;0.00;28.80
+Platelet Aggregation Inhibitors;0.00;0.00;0.00;28.80
+Uricosuric Agents;0.00;0.00;0.00;28.80
+Fungicides, Industrial;0.00;0.00;0.00;27.00
+Adjuvants, Immunologic;0.00;0.00;0.00;21.60
+Adrenergic alpha-2 Receptor Antagonists;0.00;0.00;0.00;21.60
+Angiotensin II Type 1 Receptor Blockers;0.00;0.00;0.00;21.60
+Antibiotics, Antineoplastic;0.00;0.00;0.00;21.60
+Anticoagulants;0.00;0.00;0.00;21.60
+Antidiarrheals;0.00;0.00;0.00;21.60
+Antineoplastic Agents, Alkylating;0.00;0.00;0.00;21.60
+Antineoplastic Agents, Hormonal;0.00;0.00;0.00;21.60
+Antiprotozoal Agents;0.00;0.00;0.00;21.60
+Antipruritics;0.00;0.00;0.00;21.60
+Antirheumatic Agents;0.00;0.00;0.00;21.60
+Calcium Channel Agonists;0.00;0.00;0.00;21.60
+Convulsants;0.00;0.00;0.00;21.60
+Estrogen Antagonists;0.00;0.00;0.00;21.60
+Estrogens;0.00;0.00;0.00;21.60
+Excitatory Amino Acid Antagonists;0.00;0.00;0.00;21.60
+Expectorants;0.00;0.00;0.00;21.60
+Histamine H1 Antagonists, Non-Sedating;0.00;0.00;0.00;21.60
+Indicators and Reagents;0.00;0.00;0.00;21.60
+Miotics;0.00;0.00;0.00;21.60
+Mutagens;0.00;0.00;0.00;21.60
+Neurotoxins;0.00;0.00;0.00;21.60
+Nootropic Agents;0.00;0.00;0.00;21.60
+Phosphodiesterase Inhibitors;0.00;0.00;0.00;21.60
+Phytoestrogens;0.00;0.00;0.00;21.60
+Plant Growth Regulators;0.00;0.00;0.00;21.60
+Protein Kinase Inhibitors;0.00;0.00;0.00;21.60
+Selective Estrogen Receptor Modulators;0.00;0.00;0.00;21.60
+Serine Proteinase Inhibitors;0.00;0.00;0.00;21.60
+Sodium Chloride Symporter Inhibitors;0.00;0.00;0.00;21.60
+Sympathomimetics;0.00;0.00;0.00;21.60
+Urological Agents;0.00;0.00;0.00;21.60
+Adrenergic alpha-1 Receptor Agonists;0.00;0.00;0.00;18.00
+Analgesics;0.00;0.00;0.00;18.00
+Appetite Depressants;0.00;0.00;0.00;18.00
+Carbonic Anhydrase Inhibitors;0.00;0.00;0.00;18.00
+Fatty Acid Synthesis Inhibitors;0.00;0.00;0.00;18.00
+Muscarinic Agonists;0.00;0.00;0.00;18.00
+Schistosomicides;0.00;0.00;0.00;18.00
+Tubulin Modulators;0.00;0.00;0.00;18.00
+Adrenergic Uptake Inhibitors;0.00;0.00;0.00;14.40
+Adrenergic alpha-2 Receptor Agonists;0.00;0.00;0.00;14.40
+Angiotensin-Converting Enzyme Inhibitors;0.00;0.00;0.00;14.40
+Anti-Dyskinesia Agents;0.00;0.00;0.00;14.40
+Anti-HIV Agents;0.00;0.00;0.00;14.40
+Anticarcinogenic Agents;0.00;0.00;0.00;14.40
+Anticholesteremic Agents;0.00;0.00;0.00;14.40
+Antitrichomonal Agents;0.00;0.00;0.00;14.40
+Cannabinoid Receptor Agonists;0.00;0.00;0.00;14.40
+Cathartics;0.00;0.00;0.00;14.40
+Cholagogues and Choleretics;0.00;0.00;0.00;14.40
+Contraceptive Agents, Male;0.00;0.00;0.00;14.40
+Contraceptives, Oral, Synthetic;0.00;0.00;0.00;14.40
+Cytochrome P-450 CYP2D6 Inhibitors;0.00;0.00;0.00;14.40
+Epithelial Sodium Channel Blockers;0.00;0.00;0.00;14.40
+GABA-A Receptor Antagonists;0.00;0.00;0.00;14.40
+Luteolytic Agents;0.00;0.00;0.00;14.40
+Monoamine Oxidase Inhibitors;0.00;0.00;0.00;14.40
+Mydriatics;0.00;0.00;0.00;14.40
+Narcotic Antagonists;0.00;0.00;0.00;14.40
+Nitric Oxide Donors;0.00;0.00;0.00;14.40
+Ophthalmic Solutions;0.00;0.00;0.00;14.40
+Phosphodiesterase 5 Inhibitors;0.00;0.00;0.00;14.40
+Potassium Channel Blockers;0.00;0.00;0.00;14.40
+Progestins;0.00;0.00;0.00;14.40
+Proton Pump Inhibitors;0.00;0.00;0.00;14.40
+Purinergic P1 Receptor Antagonists;0.00;0.00;0.00;14.40
+Purinergic P2Y Receptor Antagonists;0.00;0.00;0.00;14.40
+Serotonin and Noradrenaline Reuptake Inhibitors;0.00;0.00;0.00;14.40
+Sympatholytics;0.00;0.00;0.00;14.40
+Teratogens;0.00;0.00;0.00;14.40
+Topoisomerase II Inhibitors;0.00;0.00;0.00;14.40
+Vitamin B Complex;0.00;0.00;0.00;14.40
+Alkylating Agents;0.00;0.00;0.00;12.00
+Anti-Asthmatic Agents;0.00;0.00;0.00;12.00
+Anticestodal Agents;0.00;0.00;0.00;12.00
+Bone Density Conservation Agents;0.00;0.00;0.00;12.00
+Cardiovascular Agents;0.00;0.00;0.00;12.00
+Cysteine Proteinase Inhibitors;0.00;0.00;0.00;12.00
+Fluorescent Dyes;0.00;0.00;0.00;12.00
+Gout Suppressants;0.00;0.00;0.00;12.00
+Neuromuscular Agents;0.00;0.00;0.00;12.00
+Nicotinic Agonists;0.00;0.00;0.00;12.00
+Nucleic Acid Synthesis Inhibitors;0.00;0.00;0.00;12.00
+Photosensitizing Agents;0.00;0.00;0.00;12.00
+Poly(ADP-ribose) Polymerase Inhibitors;0.00;0.00;0.00;12.00
+Protein Synthesis Inhibitors;0.00;0.00;0.00;12.00
+Radiation-Sensitizing Agents;0.00;0.00;0.00;12.00
+5-alpha Reductase Inhibitors;0.00;0.00;0.00;9.00
+Acetaldehyde Dehydrogenase Inhibitors;0.00;0.00;0.00;9.00
+Adenosine A1 Receptor Antagonists;0.00;0.00;0.00;9.00
+Adrenergic Agonists;0.00;0.00;0.00;9.00
+Adrenergic beta-2 Receptor Agonists;0.00;0.00;0.00;9.00
+Anesthetics;0.00;0.00;0.00;9.00
+Anesthetics, Intravenous;0.00;0.00;0.00;9.00
+Angiogenesis Inhibitors;0.00;0.00;0.00;9.00
+Antibiotics, Antitubercular;0.00;0.00;0.00;9.00
+Antithyroid Agents;0.00;0.00;0.00;9.00
+Antitubercular Agents;0.00;0.00;0.00;9.00
+Central Nervous System Agents;0.00;0.00;0.00;9.00
+Contrast Media;0.00;0.00;0.00;9.00
+Cytochrome P-450 CYP1A2 Inducers;0.00;0.00;0.00;9.00
+Dopamine D2 Receptor Antagonists;0.00;0.00;0.00;9.00
+Emetics;0.00;0.00;0.00;9.00
+Estrogens, Non-Steroidal;0.00;0.00;0.00;9.00
+Free Radical Scavengers;0.00;0.00;0.00;9.00
+GABA Modulators;0.00;0.00;0.00;9.00
+GABA-A Receptor Agonists;0.00;0.00;0.00;9.00
+GABA-B Receptor Agonists;0.00;0.00;0.00;9.00
+Gastrointestinal Agents;0.00;0.00;0.00;9.00
+Leprostatic Agents;0.00;0.00;0.00;9.00
+Leukotriene Antagonists;0.00;0.00;0.00;9.00
+Mineralocorticoid Receptor Antagonists;0.00;0.00;0.00;9.00
+Plasticizers;0.00;0.00;0.00;9.00
+Proton Ionophores;0.00;0.00;0.00;9.00
+Radiation-Protective Agents;0.00;0.00;0.00;9.00
+Serotonin Uptake Inhibitors;0.00;0.00;0.00;9.00
+Siderophores;0.00;0.00;0.00;9.00
+Tocolytic Agents;0.00;0.00;0.00;9.00
+Trypanocidal Agents;0.00;0.00;0.00;9.00
+Adjuvants, Anesthesia;0.00;0.00;0.00;7.20
+Alcohol Deterrents;0.00;0.00;0.00;7.20
+Analgesics, Opioid;0.00;0.00;0.00;7.20
+Androgen Antagonists;0.00;0.00;0.00;7.20
+Anti-Infective Agents, Local;0.00;0.00;0.00;7.20
+Antimetabolites;0.00;0.00;0.00;7.20
+Aromatase Inhibitors;0.00;0.00;0.00;7.20
+Aromatic Amino Acid Decarboxylase Inhibitors;0.00;0.00;0.00;7.20
+Catechol O-Methyltransferase Inhibitors;0.00;0.00;0.00;7.20
+Chelating Agents;0.00;0.00;0.00;7.20
+Cholinergic Agonists;0.00;0.00;0.00;7.20
+Coloring Agents;0.00;0.00;0.00;7.20
+Contraceptive Agents, Hormonal;0.00;0.00;0.00;7.20
+Contraceptives, Oral, Hormonal;0.00;0.00;0.00;7.20
+Cross-Linking Reagents;0.00;0.00;0.00;7.20
+Cytochrome P-450 CYP1A2 Inhibitors;0.00;0.00;0.00;7.20
+Cytochrome P-450 CYP3A Inhibitors;0.00;0.00;0.00;7.20
+Dermatologic Agents;0.00;0.00;0.00;7.20
+Dipeptidyl-Peptidase IV Inhibitors;0.00;0.00;0.00;7.20
+Disinfectants;0.00;0.00;0.00;7.20
+Filaricides;0.00;0.00;0.00;7.20
+Ganglionic Stimulants;0.00;0.00;0.00;7.20
+HIV Protease Inhibitors;0.00;0.00;0.00;7.20
+Histamine H2 Antagonists;0.00;0.00;0.00;7.20
+Hydroxymethylglutaryl-CoA Reductase Inhibitors;0.00;0.00;0.00;7.20
+Hypnotics and Sedatives;0.00;0.00;0.00;7.20
+Immunosuppressive Agents;0.00;0.00;0.00;7.20
+Neuromuscular Depolarizing Agents;0.00;0.00;0.00;7.20
+Neurosteroids;0.00;0.00;0.00;7.20
+Protective Agents;0.00;0.00;0.00;7.20
+Serotonin 5-HT1 Receptor Antagonists;0.00;0.00;0.00;7.20
+Sodium Channel Blockers;0.00;0.00;0.00;7.20
+Sodium Potassium Chloride Symporter Inhibitors;0.00;0.00;0.00;7.20
+Tranquilizing Agents;0.00;0.00;0.00;7.20
+Vasoconstrictor Agents;0.00;0.00;0.00;7.20
