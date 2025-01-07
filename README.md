@@ -13,7 +13,7 @@ This repo contains the code to reproduce results from our paper [Semisupervised 
   <img src="figures/MLP_figure.svg" width="900">
 </p>
 
-Statistical report
+
 
 
 ## Data
